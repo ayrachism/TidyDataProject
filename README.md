@@ -24,4 +24,4 @@ A .txt file is submitted as the final dataset. It can be read using `read.table(
 
 ## Additional notes
 
-A [codebook](https://github.com/ayrachism/TidyData/blob/master/CodeBook.md) (`CodeBook.md`) is available and give a brief description of the tidy data set columns.
+A [codebook](https://github.com/ayrachism/TidyDataProject/blob/master/CodeBook.md) (`CodeBook.md`) is available and give a brief description of the tidy data set columns.
