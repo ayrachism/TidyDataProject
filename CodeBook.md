@@ -46,6 +46,15 @@ The set of variables that were estimated from these signals are:
 * mean(): Mean value
 * std(): Standard deviation
 
+# Conversion to Tidy Dataset
+
+The following steps were followed:
+1. Merged the training and the test sets to create one data set.
+2. Extracted only the measurements on the mean and standard deviation for each measurement.
+3. Used descriptive activity names to name the activities in the data set
+4. Appropriately labeled the data set with descriptive variable names.
+5. From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 # Column Names
 
 | column                      |  type         |
@@ -121,3 +130,4 @@ The set of variables that were estimated from these signals are:
 
 
 See the [README](README.md) for additional details.
+
